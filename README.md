@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hellow there! I'am aBejohansyah, just call me "Abe" 👋
+I'am a high school student, currently start my journey for study and learn about "Machine Learning", "AI", and "Data scientist"!.
+Wish me luck on my progress. I hope everything here can be such a usefull documentary for me, or even everyone.
 
 <!--
 **aBejohansyah/aBejohansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
